@@ -1,4 +1,0 @@
-Package              Version   
--------------------- ----------
-beautifulsoup4       4.7.1     
-PyMySQL              0.9.3     
